@@ -10,13 +10,21 @@ The purpose of the analysis is to determine the number of retiring employees per
 ## Results
 
 Based on the result we found out that:
+
 •	There are 72458 employees in total that are retiring soon. 
+
 ![Capture](https://user-images.githubusercontent.com/66279829/160301328-61c79f30-5370-4b37-9107-178514c515a8.PNG)
-•	36% of the retiring employees are senior engineers
+
+•	36% of the retiring employees are senior engineers.
+
 •	34% of the retiring employees are senior staff.
+
 •	Other titles are 13% Engineers, 11% Staff, 5% Technique Leaders,  and less than 2% Assistant Engineers and Managers.
+
 ![Capture](https://user-images.githubusercontent.com/66279829/160301396-366984e1-78a8-4056-af4c-0921a278cc3b.PNG)
+
 •	There are 1549 employees that are eligible for the mentorship program.
+
 ![Capture](https://user-images.githubusercontent.com/66279829/160301618-52dc8e41-b555-497a-b0b8-e2e48c45d1e6.PNG)
 
 
