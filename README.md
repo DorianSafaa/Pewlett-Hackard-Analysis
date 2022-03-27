@@ -31,4 +31,5 @@ Based on the result we found out that:
 ## Summary
 
 In summary, 72458 employees are retiring soon at Pewlett Hackard company. This silver tsunami will mostly affect senior engineers and senior staff positions. 
+
 Looking at the number of eligible mentorship employees based on the birth date we see that there are only 1549 employees in total. This number is very small compared to the number of retired employees. Therefore, the company should include more talented employees ind the mentorship program based on other criteria than age.  
